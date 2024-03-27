@@ -27,13 +27,10 @@
 </div>
 <br>
 <div align="center">
-  
- ![ryofac's Streak](https://github-readme-streak-stats.herokuapp.com/?user=ryofac&theme=radical&hide_border=true)
-</div>
 
-<div align="center">
+![ryofac's Stats](https://github-readme-stats.vercel.app/api?username=ryofac&theme=radical&show_icons=true&hide_border=true&count_private=true)
 
- 
-  ![ryofac's Stats](https://github-readme-stats.vercel.app/api?username=ryofac&theme=radical&show_icons=true&hide_border=true&count_private=true)
-  
+![ryofac's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ryofac&theme=radical&show_icons=true&hide_border=true&layout=compact)
+
+
 </div>
