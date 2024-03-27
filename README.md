@@ -8,7 +8,7 @@
 </div>
 <ul>
   <li> I love studying about technology and how it can solve real problems. </li>
-   <li> Currently on third period of Analysis and Systems Development. </li>
+   <li> Currently in my third period of Analysis and Systems Development. </li>
    <li>
      Game and system developer at <a href="https://github.com/LabirasIFPI")> LABIRAS </a>
    </li>
