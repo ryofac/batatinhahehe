@@ -19,11 +19,11 @@
 <h3>Reach-me </h3> 
 <div id="badges">
 	  <a href="https://www.linkedin.com/in/ryan-faustino-b94b57269/">
-	    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+	    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="ryofac's linkedin bagde"/>
 	  </a>
-  
-   ![Itch.io](https://img.shields.io/badge/Itch-%23FF0B34.svg?style=for-the-badge&logo=Itch.io&logoColor=white)
-  
+    	<a href="https://ryofac.itch.io">
+	    <img src="https://img.shields.io/badge/Itch-%23FF0B34.svg?style=for-the-badge&logo=Itch.io&logoColor=white" alt="ryofac's itch.io bagde"/>
+	</a>
 </div>
 <br>
 <div align="center">
